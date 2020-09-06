@@ -12,7 +12,7 @@ var store = [
 ]
 var tenant = [
     'DP',
-    'DSP'
+    'DL'
 ]
 
 export function createMock(count: Number) {

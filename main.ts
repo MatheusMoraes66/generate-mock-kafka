@@ -7,7 +7,7 @@ import { control } from './scripts/control';
 function init() {
     console.log(
         chalk.red(
-            figlet.textSync('Summit-bra', { horizontalLayout: 'full' })
+            figlet.textSync('Gerador de Mocks', { horizontalLayout: 'full' })
         )
     );
     console.log(
